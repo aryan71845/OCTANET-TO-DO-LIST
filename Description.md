@@ -1,0 +1,2 @@
+# OCTANET-TO-DO-LIST
+This HTML document creates a simple To-Do List web application. It includes an input form where users can add tasks, which are displayed in a list below. Each task is rendered with an "Edit" and "Delete" button. The "Edit" button allows users to modify the task, and once editing is complete, it can be saved. The "Delete" button removes the task from the list. The JavaScript code handles task creation, editing, and deletion, updating the DOM accordingly.
